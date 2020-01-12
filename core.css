@@ -117,6 +117,10 @@
     color: white;
 }
 
+.circleIconButton-jET_ig:hover {
+    background-color: #cc0029;
+}
+
 .containerCozyBounded-1rKFAn {
     margin-right: 20px;
     margin-bottom: 10px;
@@ -205,4 +209,24 @@
 
 .friendsTable-133bsv {
     padding-top: 0;
+}
+
+.friendTableAddWrapper-nHHZtK {
+    background-color: #2D3039;
+}
+
+.theme-dark .friendsTable-133bsv .friendTableAddWrapper-nHHZtK .friendTableAddHeader-m9bzFr {
+    border-bottom: 0;
+}
+
+.friendsTable-133bsv .friendTableAddWrapper-nHHZtK .friendTableAddHeader-m9bzFr {
+    border-bottom: 0;
+}
+
+.wrapper-1cBijl {
+    background-color: #363A45;
+}
+
+.placeholder-37qJjk {
+    color: #ced1d4;
 }
