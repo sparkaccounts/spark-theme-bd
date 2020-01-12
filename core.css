@@ -81,6 +81,10 @@
 .form-2fGMdU {
     background: #2D3039;
     border-top: 0;
+    border-bottom: 0;
+    border-left: 0;
+    border-right: 0;
+    border: 0;
 }
 
 .bg-h5JY_x {
@@ -230,3 +234,8 @@
 .placeholder-37qJjk {
     color: #ced1d4;
 }
+
+.divider-32i8lo {
+    border-bottom: 0;
+}
+
