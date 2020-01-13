@@ -239,3 +239,17 @@
     border-bottom: 0;
 }
 
+.headerPlaying-j0WQBV, .headerStreaming-2FjmGz {
+    background: #FF1744;
+}
+
+.topSectionStreaming-1Tpf5X {
+    background: #FF1744;
+}
+
+.buttonInvertedPurple-WtBglX {
+    background: transparent;
+    color: #fff;
+    border-color: hsla(0,0%,100%,.3);
+}
+
